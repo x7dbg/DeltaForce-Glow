@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+x64/
+x86/
+Debug/
+Release/
+ipch/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.recipe
+*.Build.CppClean.log
+*.FileListAbsolute.txt
+*.idb
+*.ipdb
+*.iobj
+*.ipdb
+
+# Dev-C++
+*.dev
+*.layout
+
+# Windows
+Thumbs.db
+Desktop.ini
